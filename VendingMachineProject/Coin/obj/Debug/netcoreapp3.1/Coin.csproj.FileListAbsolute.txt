@@ -1,0 +1,12 @@
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\obj\Debug\netcoreapp3.1\Coin.AssemblyInfoInputs.cache
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\obj\Debug\netcoreapp3.1\Coin.AssemblyInfo.cs
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\obj\Debug\netcoreapp3.1\Coin.csproj.CoreCompileInputs.cache
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\bin\Debug\netcoreapp3.1\Coin.exe
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\bin\Debug\netcoreapp3.1\Coin.deps.json
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\bin\Debug\netcoreapp3.1\Coin.runtimeconfig.json
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\bin\Debug\netcoreapp3.1\Coin.runtimeconfig.dev.json
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\bin\Debug\netcoreapp3.1\Coin.dll
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\bin\Debug\netcoreapp3.1\Coin.pdb
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\obj\Debug\netcoreapp3.1\Coin.dll
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\obj\Debug\netcoreapp3.1\Coin.pdb
+C:\Users\67luk\source\repos\VendingMachineProject\Coin\obj\Debug\netcoreapp3.1\Coin.genruntimeconfig.cache

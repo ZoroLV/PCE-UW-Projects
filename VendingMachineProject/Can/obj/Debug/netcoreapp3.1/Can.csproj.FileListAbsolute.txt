@@ -1,0 +1,12 @@
+C:\Users\67luk\source\repos\VendingMachineProject\Can\obj\Debug\netcoreapp3.1\Can.AssemblyInfoInputs.cache
+C:\Users\67luk\source\repos\VendingMachineProject\Can\obj\Debug\netcoreapp3.1\Can.AssemblyInfo.cs
+C:\Users\67luk\source\repos\VendingMachineProject\Can\obj\Debug\netcoreapp3.1\Can.csproj.CoreCompileInputs.cache
+C:\Users\67luk\source\repos\VendingMachineProject\Can\bin\Debug\netcoreapp3.1\Can.exe
+C:\Users\67luk\source\repos\VendingMachineProject\Can\bin\Debug\netcoreapp3.1\Can.deps.json
+C:\Users\67luk\source\repos\VendingMachineProject\Can\bin\Debug\netcoreapp3.1\Can.runtimeconfig.json
+C:\Users\67luk\source\repos\VendingMachineProject\Can\bin\Debug\netcoreapp3.1\Can.runtimeconfig.dev.json
+C:\Users\67luk\source\repos\VendingMachineProject\Can\bin\Debug\netcoreapp3.1\Can.dll
+C:\Users\67luk\source\repos\VendingMachineProject\Can\bin\Debug\netcoreapp3.1\Can.pdb
+C:\Users\67luk\source\repos\VendingMachineProject\Can\obj\Debug\netcoreapp3.1\Can.dll
+C:\Users\67luk\source\repos\VendingMachineProject\Can\obj\Debug\netcoreapp3.1\Can.pdb
+C:\Users\67luk\source\repos\VendingMachineProject\Can\obj\Debug\netcoreapp3.1\Can.genruntimeconfig.cache

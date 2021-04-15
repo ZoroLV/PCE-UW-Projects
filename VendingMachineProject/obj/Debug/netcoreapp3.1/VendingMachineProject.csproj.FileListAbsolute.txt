@@ -1,0 +1,4 @@
+C:\Users\67luk\source\repos\VendingMachineProject\obj\Debug\netcoreapp3.1\VendingMachineProject.AssemblyInfoInputs.cache
+C:\Users\67luk\source\repos\VendingMachineProject\obj\Debug\netcoreapp3.1\VendingMachineProject.AssemblyInfo.cs
+C:\Users\67luk\source\repos\VendingMachineProject\obj\Debug\netcoreapp3.1\VendingMachineProject.csproj.CoreCompileInputs.cache
+C:\Users\67luk\source\repos\VendingMachineProject\obj\Debug\netcoreapp3.1\VendingMachineProject.csprojAssemblyReference.cache
