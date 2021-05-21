@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipCode TextBox", "ZipCode TextBox.csproj", "{16D0E9B8-8EFB-4CEE-B0DD-79D0C6D61ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D0E9B8-8EFB-4CEE-B0DD-79D0C6D61ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D0E9B8-8EFB-4CEE-B0DD-79D0C6D61ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D0E9B8-8EFB-4CEE-B0DD-79D0C6D61ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D0E9B8-8EFB-4CEE-B0DD-79D0C6D61ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E4674F-54DA-4887-B5B5-B5C00B6E5DC7}
+	EndGlobalSection
+EndGlobal
