@@ -1,0 +1,28 @@
+﻿@model WebSiteP1.Models.UserClasses
+@{
+    ViewData["Title"] = "Enroll";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Enroll</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Enroll">
+            <div class="form-group">
+                <input asp-for="UserId" type="hidden" value="@ViewBag.hdnFlag" id="hdnFlag" />
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <select asp-for="ClassId" class="form-control" asp-items="@(new SelectList(ViewBag.ClassList, "ClassName", "ClassName"))"></select>
+                <span asp-validation-for="ClassId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Enroll" class="btn btn-primary" />
+            </div>
+        </form>
+        <p>
+            <a asp-action="Index">Back to Home</a>
+        </p>
+    </div>
+</div>

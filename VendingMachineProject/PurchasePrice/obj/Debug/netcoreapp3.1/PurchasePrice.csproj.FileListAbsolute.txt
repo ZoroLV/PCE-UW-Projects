@@ -11,3 +11,16 @@ C:\Users\67luk\source\repos\VendingMachineProject\PurchasePrice\obj\Debug\netcor
 C:\Users\67luk\source\repos\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.dll
 C:\Users\67luk\source\repos\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.pdb
 C:\Users\67luk\source\repos\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.genruntimeconfig.cache
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\bin\Debug\netcoreapp3.1\PurchasePrice.exe
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\bin\Debug\netcoreapp3.1\PurchasePrice.deps.json
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\bin\Debug\netcoreapp3.1\PurchasePrice.runtimeconfig.json
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\bin\Debug\netcoreapp3.1\PurchasePrice.runtimeconfig.dev.json
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\bin\Debug\netcoreapp3.1\PurchasePrice.dll
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\bin\Debug\netcoreapp3.1\PurchasePrice.pdb
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.csprojAssemblyReference.cache
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.AssemblyInfoInputs.cache
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.AssemblyInfo.cs
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.csproj.CoreCompileInputs.cache
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.dll
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.pdb
+C:\Users\67luk\ZoroRepo\VendingMachineProject\PurchasePrice\obj\Debug\netcoreapp3.1\PurchasePrice.genruntimeconfig.cache

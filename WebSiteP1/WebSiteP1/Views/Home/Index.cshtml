@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="text-center">
+    <style type="text/css">
+        .actionlink {
+            font-size: larger;
+            color: black;
+        }
+    </style>
+    @Html.ActionLink("Class List", "ClassList", "Home", null, new { @class = "text-center", @style = "font-size:larger;color:black;" })
+</div>
+
+<div class="text-center">
+    <style type="text/css">
+        .actionlink {
+            font-size: larger;
+            color: black;
+        }
+    </style>
+    @Html.ActionLink("Enroll in classes", "Enroll", "Home", null, new { @class = "text-center", @style = "font-size:larger;color:black;" })
+</div>
+
+
+<div class="text-center">
+    <style type="text/css">
+        .actionlink {
+            font-size: larger;
+            color: black;
+        }
+    </style>
+    @Html.ActionLink("Your Classes", "StudentClasses", "Home", null, new { @class = "text-center", @style = "font-size:larger;color:black;" })
+</div>

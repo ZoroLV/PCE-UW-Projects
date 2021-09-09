@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\VendingMachineProject.csproj": {}
+    "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\VendingMachineProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Can\\Can.csproj": {
+    "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Can\\Can.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Can\\Can.csproj",
+        "projectUniqueName": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Can\\Can.csproj",
         "projectName": "Can",
-        "projectPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Can\\Can.csproj",
+        "projectPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Can\\Can.csproj",
         "packagesPath": "C:\\Users\\67luk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Can\\obj\\",
+        "outputPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Can\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\67luk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,21 +58,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Coin\\Coin.csproj": {
+    "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Coin\\Coin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Coin\\Coin.csproj",
+        "projectUniqueName": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Coin\\Coin.csproj",
         "projectName": "Coin",
-        "projectPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Coin\\Coin.csproj",
+        "projectPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Coin\\Coin.csproj",
         "packagesPath": "C:\\Users\\67luk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Coin\\obj\\",
+        "outputPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Coin\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\67luk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,6 +88,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -89,6 +100,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -104,21 +116,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj": {
+    "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj",
+        "projectUniqueName": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj",
         "projectName": "PurchasePrice",
-        "projectPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj",
+        "projectPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj",
         "packagesPath": "C:\\Users\\67luk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\PurchasePrice\\obj\\",
+        "outputPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\PurchasePrice\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\67luk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -130,6 +146,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -141,6 +158,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -156,21 +174,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\VendingMachineProject.csproj": {
+    "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\VendingMachineProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\VendingMachineProject.csproj",
+        "projectUniqueName": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\VendingMachineProject.csproj",
         "projectName": "VendingMachineProject",
-        "projectPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\VendingMachineProject.csproj",
+        "projectPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\VendingMachineProject.csproj",
         "packagesPath": "C:\\Users\\67luk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\obj\\",
+        "outputPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\67luk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -182,15 +204,16 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Can\\Can.csproj": {
-                "projectPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Can\\Can.csproj"
+              "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Can\\Can.csproj": {
+                "projectPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Can\\Can.csproj"
               },
-              "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Coin\\Coin.csproj": {
-                "projectPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\Coin\\Coin.csproj"
+              "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Coin\\Coin.csproj": {
+                "projectPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\Coin\\Coin.csproj"
               },
-              "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj": {
-                "projectPath": "C:\\Users\\67luk\\source\\repos\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj"
+              "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj": {
+                "projectPath": "C:\\Users\\67luk\\ZoroRepo\\VendingMachineProject\\PurchasePrice\\PurchasePrice.csproj"
               }
             }
           }
@@ -203,6 +226,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -218,7 +242,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,33 @@
+﻿@model WebSiteP1.Models.MainModel
+
+@{
+    ViewData["Title"] = "StudentClasses";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Your Classes</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(classes => classes.Classes.ClassName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var classes in ViewBag.Classes)
+        {
+            <tr>
+                <td>
+                    @classes
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Index">Back to Home</a>
+</p>

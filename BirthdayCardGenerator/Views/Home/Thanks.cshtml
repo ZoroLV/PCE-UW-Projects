@@ -1,0 +1,13 @@
+﻿@model HelloWorld.Models.GuestResponse
+@{ Layout = null; }
+<!DOCTYPE html>
+<html>
+<body>
+    <p style="border:3px; border-style:solid; border-color:#FF0000; padding: 1em;">
+        <h1 style="font-family:Verdana">Birthday Card Sent</h1>
+        <h2 style="font-family:'Courier New'">From: @Model.From</h2>
+        <h3 style="font-family:'Courier New'">To: @Model.To</h3>
+        <h4 style="font-family:'Courier New'">Message: @Model.Message</h4>
+    </p>
+</body>
+</html>
