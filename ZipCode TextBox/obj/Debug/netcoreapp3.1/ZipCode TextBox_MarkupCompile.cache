@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿ZipCode TextBox
 
 
@@ -18,3 +19,25 @@ MainWindow.xaml;
 
 False
 
+=======
+﻿ZipCode TextBox
+
+
+winexe
+C#
+.cs
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\
+ZipCode_TextBox
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\App.xaml
+11407045341
+
+3-1233169557
+192-1533232326
+MainWindow.xaml;
+
+False
+
+>>>>>>> a02dca0fec6044e282fd93be39d2a8b5fec46374

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "JpXkYJCEc5XDKzOkRvA+/lEyaQABE6M661qbCwDf5JL+KZAlNxgsXih+13gSvU9bT3paJmCW2ObsjSYBW2eJoQ==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\67luk\\ZoroRepo\\ZipCode TextBox\\ZipCode TextBox.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "JpXkYJCEc5XDKzOkRvA+/lEyaQABE6M661qbCwDf5JL+KZAlNxgsXih+13gSvU9bT3paJmCW2ObsjSYBW2eJoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\67luk\\ZoroRepo\\ZipCode TextBox\\ZipCode TextBox.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> a02dca0fec6044e282fd93be39d2a8b5fec46374
 }

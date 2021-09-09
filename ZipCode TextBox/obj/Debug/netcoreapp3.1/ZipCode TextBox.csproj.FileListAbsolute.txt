@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.csprojAssemblyReference.cache
 C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\MainWindow.g.cs
 C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\App.g.cs
@@ -17,3 +18,24 @@ C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.
 C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.dll
 C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.pdb
 C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.genruntimeconfig.cache
+=======
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.csprojAssemblyReference.cache
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox_MarkupCompile.cache
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox_MarkupCompile.lref
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\bin\Debug\netcoreapp3.1\ZipCode TextBox.exe
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\bin\Debug\netcoreapp3.1\ZipCode TextBox.deps.json
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\bin\Debug\netcoreapp3.1\ZipCode TextBox.runtimeconfig.json
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\bin\Debug\netcoreapp3.1\ZipCode TextBox.runtimeconfig.dev.json
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\bin\Debug\netcoreapp3.1\ZipCode TextBox.dll
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\bin\Debug\netcoreapp3.1\ZipCode TextBox.pdb
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.g.resources
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.AssemblyInfoInputs.cache
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.AssemblyInfo.cs
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.csproj.CoreCompileInputs.cache
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.dll
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.pdb
+C:\Users\67luk\ZoroRepo\ZipCode TextBox\obj\Debug\netcoreapp3.1\ZipCode TextBox.genruntimeconfig.cache
+>>>>>>> a02dca0fec6044e282fd93be39d2a8b5fec46374

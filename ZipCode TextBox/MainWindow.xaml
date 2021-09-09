@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<Window x:Class="ZipCode_TextBox.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -6,6 +7,16 @@
         xmlns:local="clr-namespace:ZipCode_TextBox"
         mc:Ignorable="d"
         Title="MainWindow" Height="165" Width="471">
+=======
+﻿<Window x:Class="ZipCode_TextBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZipCode_TextBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="165" Width="471">
+>>>>>>> a02dca0fec6044e282fd93be39d2a8b5fec46374
     <StackPanel>
 
         <TextBlock>Enter Zipcode:</TextBlock>
@@ -13,5 +24,10 @@
         <Button x:Name="submitButton">Submit
         </Button>
 
+<<<<<<< HEAD
     </StackPanel>
 </Window>
+=======
+    </StackPanel>
+</Window>
+>>>>>>> a02dca0fec6044e282fd93be39d2a8b5fec46374
